@@ -1,0 +1,7 @@
+spring:
+  redis:
+    database: 7
+    host: 10.10.87.56
+    port: 7015
+    password: focus_redis
+    timeout: 10000
